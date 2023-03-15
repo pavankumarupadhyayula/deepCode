@@ -1,0 +1,7 @@
+.isCompleted-true {
+    text-decoration: line-through;
+}
+
+.isCompleted-false{
+    text-decoration: none;
+}
